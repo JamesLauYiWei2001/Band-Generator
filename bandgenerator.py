@@ -1,0 +1,6 @@
+name = input("Greetings Human! Tell me, What is your name? \n")
+print("What a fantastic name! " + name + "! Nice to meet you! Tell you what, since you're so kind to me, I can generate a band name for you!")
+input("I will simply ask you two questions. But please answer them truthfully! When you are ready, press any key then hit the enter key to continue. \n")
+City_name = input("What city do you live in? \n")
+pet_name = input("what's the name of your pet? \n")
+input("BAM! WHIZZ WAZOWSKAAA! Your band name could be " + City_name + " " + pet_name)
